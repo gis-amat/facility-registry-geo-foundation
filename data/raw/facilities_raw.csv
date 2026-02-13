@@ -1,0 +1,261 @@
+Address,COUNTRY,City,Country,FacilityName,FacilityType,Latitude,Lng,Longitude,Name,Operator,Postal,Region,State,Street_Address,ZIP,country_name,facility_name,facility_type,lat,lon,postal_code,source,state_region,street
+,, Mason ,United States,,,,,57.70886,Mason Warehouse 0,Kiteway Cargo,,,California,,,,,warehouse,31.28241,,28289,synthetic_v1,, 4022 Transit Rd 
+,, Kalten ,DEUTSCHLAND,,,5.42881,,,Kalten Airport 1,Nimbus Freight,,,, 8938 Foundry Rd ,,,,airport,,-49.88851,38893,synthetic_v1,Bavaria,
+ 5645 Vector Rd ,UK, Avonford ,,Avonford Warehouse 2,,,,19.78158,,Kiteway Cargo,15695,Scotland,,,,,,warehouse,30.67586,,,synthetic_v1,,
+,, Porto Claro ,,Porto Claro Rail Terminal 3,,,,-22.36592,,Nimbus Freight,,,Sao Paulo, 4751 Harbor Rd ,40512,brazil,,rail terminal,42.98353,,,synthetic_v1,,
+,, Hinode ,,,,-10.70470,124.85562,,Hinode Airport 4,Nimbus Freight,,,Kansai,,,JAPAN,,airport,,,59735,synthetic_v1,, 2687 Canal Rd 
+ 3493 Canal Rd ,SOUTH AFRICA, New Umber ,,New Umber Airport 5,,"44,6215","48,5700",,,Kiteway Cargo,61856,Gauteng,,,,,,airport,,,,synthetic_v1,,
+,AU, Redgum ,,Redgum Airport 6,,-21.24428,,-81.80486,,Granite Loop Transport,24371,New South Wales,, 1499 Axis Rd ,,,,airport,,,,synthetic_v1,,
+ 8807 Vector Rd ,, Valle Luna ,Mexico,,,"-4,3842",,"-45,7550",Valle Luna Rail Terminal 7,Asteron Logistics,,,Puebla,,94012,,,rail terminal,,,,synthetic_v1,,
+,, Mason ,,,,,,,,Nimbus Freight,80697,,Illinois,,,US,Mason Cross-Dock 8,cross-dock,50.81498,124.05720,,synthetic_v1,, 6136 Summit Rd 
+ 7972 Harbor Rd ,, Rheinhafen ,DE,Rheinhafen Warehouse 9,,,,-90.33430,,Asteron Logistics,79822,Saxony,,,,,,warehouse,33.92510,,,synthetic_v1,,
+,GB, Dunmere ,,Dunmere Rail Terminal 10,rail terminal,,,,,Kiteway Cargo,,,Scotland,,25860,,,,,,,synthetic_v1,, 7187 Canal Rd 
+,, Porto Claro ,BR,,,,,,Porto Claro Parcel Hub 11,Asteron Logistics,46500,,,,,,,parcel hub,"25,2080","-67,1561",,synthetic_v1,Sao Paulo, 8433 Transit Rd 
+,, Hinode ,Nippon,,,,,,Hinode Parcel Hub 12,Granite Loop Transport,,,Kanto,,,,,parcel hub,,,17100,synthetic_v1,, 6745 Canal Rd 
+,, Cape Meridian ,,,parcel hub,,,,Cape Meridian Parcel Hub 13,Granite Loop Transport,,,Gauteng,,,South Africa,,,,,68082,synthetic_v1,, 4102 Harbor Rd 
+,, Redgum ,AU,,,,,86.69906,Redgum Warehouse 14,Nimbus Freight,61173,,Victoria,,,,,warehouse,-11.13172,,,synthetic_v1,, 6219 Axis Rd 
+,, Piedra Alta ,Mexico,,warehouse,,123.23453,,Piedra Alta Warehouse 15,Kiteway Cargo,,,Puebla,,86569,,,,7.91097,,,synthetic_v1,, 946 Axis Rd 
+,, Los Verdes ,UNITED STATES,,,17.53051,16.15133,,Los Verdes Cross-Dock 16,Asteron Logistics,96163,,,,,,,cross-dock,,,,synthetic_v1,Illinois, 1353 Foundry Rd 
+,, Nordstadt ,,Nordstadt Warehouse 17,warehouse,"13,3871",,"11,5889",,Granite Loop Transport,,,, 9234 Harbor Rd ,,deutschland,,,,,19602,synthetic_v1,Bavaria,
+ 1707 Summit Rd ,united kingdom, Carden ,,,warehouse,-24.61142,,-96.10029,,Kiteway Cargo,,,,,,,Carden Warehouse 18,,,,44664,synthetic_v1,Wales,
+ 6949 Vector Rd ,brazil, Nova Leste ,,Nova Leste Warehouse 19,,,,,,Asteron Logistics,15778,Rio Grande do Sul,,,,,,warehouse,-34.68089,83.20219,,synthetic_v1,,
+ 6059 Summit Rd ,, Aokawa ,Japan,,cross-dock,-23.52990,,-41.77025,,Asteron Logistics,,,Chubu,,66333,,Aokawa Cross-Dock 20,,,,,synthetic_v1,,
+,, Cape Meridian ,south africa,,rail terminal,44.32746,,,,Nimbus Freight,,,KwaZulu-Natal, 3888 Summit Rd ,33206,,Cape Meridian Rail Terminal 21,,,-118.30768,,synthetic_v1,,
+,, Bluehaven ,,Bluehaven Cross-Dock 22,,-14.93688,,,,Granite Loop Transport,,New South Wales,, 5738 Vector Rd ,39831,australia,,cross-dock,,53.20896,,synthetic_v1,,
+,, Valle Luna ,,,cross-dock,,,71.70717,Valle Luna Cross-Dock 23,Kiteway Cargo,,Nuevo Leon,, 636 Harbor Rd ,,MX,,,4.11074,,88193,synthetic_v1,,
+ 5977 Foundry Rd ,, Northgate ,,Northgate Airport 24,,50.39870,123.60813,,,Nimbus Freight,,,,,19171,U.S.,,airport,,,,synthetic_v1,California,
+,, Kalten ,,,,49.63273,,,Kalten Airport 25,Nimbus Freight,,Hesse,, 3153 Foundry Rd ,,DE,,airport,,57.87585,97153,synthetic_v1,,
+,United Kingdom, Dunmere ,,Dunmere Airport 26,airport,25.80645,,,,Kiteway Cargo,,Wales,, 7628 Canal Rd ,67954,,,,,13.01698,,synthetic_v1,,
+ 3272 Summit Rd ,Brazil, Porto Claro ,,,,-30.84077,140.66273,,,Nimbus Freight,,Bahia,,,,,Porto Claro Parcel Hub 27,parcel hub,,,13201,synthetic_v1,,
+,, Midori ,,,cross-dock,-19.17020,133.65083,,Midori Cross-Dock 28,Asteron Logistics,,,,,,Japan,,,,,38683,synthetic_v1,Kansai, 1756 Foundry Rd 
+ 8986 Canal Rd ,, Zulu Point ,SOUTH AFRICA,,,3.1621,31.9290,,Zulu Point Airport 29,Granite Loop Transport,,,,,30861,,,airport,,,,synthetic_v1,KwaZulu-Natal,
+ 4461 Delta Rd ,, Redgum ,,,parcel hub,"45,3724","-103,2440",,Redgum Parcel Hub 30,Nimbus Freight,,,Queensland,,,AU,,,,,51904,synthetic_v1,,
+,, Piedra Alta ,,,,46.43546,,32.70144,,Asteron Logistics,61049,,,,,MX,Piedra Alta Port 31,port,,,,synthetic_v1,Nuevo Leon, 3398 Foundry Rd 
+,U.S., Mason ,,,airport,,-117.16330,,,Nimbus Freight,,,Illinois, 8009 Transit Rd ,45774,,Mason Airport 32,,4.22524,,,synthetic_v1,,
+,, Kalten ,,Kalten Rail Terminal 33,,-75.9332,43.0166,,,Asteron Logistics,27786,,, 1385 Foundry Rd ,,deutschland,,rail terminal,,,,synthetic_v1,Saxony,
+,, Avonford ,United Kingdom,Avonford Warehouse 34,warehouse,,,,,Asteron Logistics,,Scotland,,,,,,,,,95215,synthetic_v1,, 5743 Transit Rd 
+,, Sertao Azul ,,Sertao Azul Airport 35,,-19.89898,38.95682,,,Nimbus Freight,,Sao Paulo,,,,Brazil,,airport,,,58351,synthetic_v1,, 7629 Vector Rd 
+ 1679 Vector Rd ,Japan, Hinode ,,,,19.03705,,,,Nimbus Freight,,,,,,,Hinode Warehouse 36,warehouse,,-92.31513,99687,synthetic_v1,Kansai,
+,south africa, Cape Meridian ,,,,4.19384,73.12473,,Cape Meridian Warehouse 37,Granite Loop Transport,,,, 5944 Canal Rd ,30052,,,warehouse,,,,synthetic_v1,Western Cape,
+,, Redgum ,,Redgum Parcel Hub 38,,,,,,Granite Loop Transport,84691,,,,,australia,,parcel hub,,,,synthetic_v1,New South Wales, 4005 Canal Rd 
+ 8474 Transit Rd ,, Piedra Alta ,,,,,,,Piedra Alta Airport 39,Asteron Logistics,21221,Nuevo Leon,,,,MEXICO,,airport,-13.27796,-15.26441,,synthetic_v1,,
+ 5026 Delta Rd ,, Northgate ,,,,14.81257,,,,Nimbus Freight,72031,,,,,US,Northgate Port 0,port,,-32.18550,,synthetic_v1,California,
+,, Rheinhafen ,DE,,,-15.52538,,,Rheinhafen Cross-Dock 1,Kiteway Cargo,35105,,Saxony,,,,,cross-dock,,5.73362,,synthetic_v1,, 1968 Summit Rd 
+ 4504 Axis Rd ,, Dunmere ,,Dunmere Rail Terminal 2,rail terminal,"14,8023","63,3027",,,Nimbus Freight,17146,,,,,UK,,,,,,synthetic_v1,England,
+,BRAZIL, Porto Claro ,,Porto Claro Parcel Hub 3,,9.25719,,30.79571,,Granite Loop Transport,,,Sao Paulo,,,,,parcel hub,,,62521,synthetic_v1,, 1879 Harbor Rd 
+,, Hinode ,,Hinode Cross-Dock 4,cross-dock,,,,,Granite Loop Transport,,Chubu,,,,JP,,,42.41500,142.30844,48974,synthetic_v1,, 7391 Canal Rd 
+ 2574 Axis Rd ,SOUTH AFRICA, New Umber ,,,,,35.32902,,,Asteron Logistics,,,,,,,New Umber Airport 5,airport,5.54533,,63545,synthetic_v1,Gauteng,
+,AUSTRALIA, Coral Reach ,,Coral Reach Rail Terminal 6,rail terminal,-84.7729,-14.7671,,,Nimbus Freight,,,,,81376,,,,,,,synthetic_v1,Queensland, 6975 Harbor Rd 
+ 6604 Vector Rd ,, Valle Luna ,MX,,,,,-6.80511,Valle Luna Rail Terminal 7,Kiteway Cargo,,,,,,,,rail terminal,13.59834,,75597,synthetic_v1,Nuevo Leon,
+ 9451 Axis Rd ,, Mason ,,,,7.34507,50.90756,,Mason Warehouse 8,Kiteway Cargo,,,,,,UNITED STATES,,warehouse,,,32962,synthetic_v1,Illinois,
+,, Nordstadt ,,Nordstadt Rail Terminal 9,,,-47.18120,,,Asteron Logistics,63955,,,,,DE,,rail terminal,27.43063,,,synthetic_v1,Hesse, 2644 Delta Rd 
+,, Carden ,,Carden Rail Terminal 10,rail terminal,11.65955,,43.11115,,Granite Loop Transport,,England,, 6780 Axis Rd ,,UK,,,,,34586,synthetic_v1,,
+ 2604 Vector Rd ,Brazil, Nova Leste ,,,warehouse,-14.8425,,-33.7693,,Nimbus Freight,82199,,Sao Paulo,,,,Nova Leste Warehouse 11,,,,,synthetic_v1,,
+,, Hinode ,,,port,14.61386,,,Hinode Port 12,Granite Loop Transport,69871,,,,,JP,,,,-21.43178,,synthetic_v1,Kanto, 7746 Transit Rd 
+,ZA, Cape Meridian ,,,,8.59072,,,,Granite Loop Transport,,KwaZulu-Natal,,,,,Cape Meridian Parcel Hub 13,parcel hub,,-35.24121,80592,synthetic_v1,, 2444 Canal Rd 
+,Australia, Bluehaven ,,Bluehaven Parcel Hub 14,,"36,3154",,,,Granite Loop Transport,,,,,,,,parcel hub,,"51,0451",96991,synthetic_v1,New South Wales, 6256 Foundry Rd 
+,, Piedra Alta ,,,,,,62.03024,Piedra Alta Port 15,Nimbus Freight,,Jalisco,, 1235 Canal Rd ,44737,mexico,,port,-4.52949,,,synthetic_v1,,
+ 3737 Harbor Rd ,, Los Verdes ,United States,,rail terminal,53.05040,,,,Kiteway Cargo,,,,,,,Los Verdes Rail Terminal 16,,,80.29982,66881,synthetic_v1,California,
+ 2395 Transit Rd ,, Nordstadt ,,Nordstadt Parcel Hub 17,,,,,,Granite Loop Transport,,Hesse,,,,DEUTSCHLAND,,parcel hub,"2,0847","59,0861",79621,synthetic_v1,,
+ 4193 Axis Rd ,, Dunmere ,,,,"46,1088","57,9549",,,Granite Loop Transport,,,,,70981,UK,Dunmere Parcel Hub 18,parcel hub,,,,synthetic_v1,Wales,
+,Brazil, Porto Claro ,,,,,,-45.11445,Porto Claro Port 19,Asteron Logistics,,,Rio Grande do Sul, 3896 Foundry Rd ,84963,,,port,-2.69368,,,synthetic_v1,,
+ 9956 Delta Rd ,Japan, Hinode ,,,parcel hub,,42.64061,,Hinode Parcel Hub 20,Nimbus Freight,,,Kanto,,38705,,,,22.29561,,,synthetic_v1,,
+,, Cape Meridian ,,,,"-5,5953",,,,Kiteway Cargo,48680,,,,,ZA,Cape Meridian Airport 21,airport,,"-12,8142",,synthetic_v1,Gauteng, 2163 Harbor Rd 
+ 6521 Delta Rd ,, Bluehaven ,,,,,,-121.24196,,Nimbus Freight,,,,,21836,AU,Bluehaven Cross-Dock 22,cross-dock,36.16138,,,synthetic_v1,New South Wales,
+,, Valle Luna ,,Valle Luna Warehouse 23,warehouse,,,,,Kiteway Cargo,93283,,Nuevo Leon,,,MX,,,39.14698,120.53466,,synthetic_v1,, 3636 Harbor Rd 
+,, Los Verdes ,,,cross-dock,50.44427,63.05068,,Los Verdes Cross-Dock 24,Granite Loop Transport,,Illinois,, 7442 Delta Rd ,,US,,,,,97881,synthetic_v1,,
+,, Rheinhafen ,DE,,,,-98.17425,,Rheinhafen Parcel Hub 25,Nimbus Freight,40947,,,,,,,parcel hub,41.99052,,,synthetic_v1,Saxony, 7274 Canal Rd 
+,GB, Avonford ,,Avonford Cross-Dock 26,cross-dock,,"87,4841",,,Asteron Logistics,,,,,,,,,"53,9939",,41925,synthetic_v1,Wales, 838 Delta Rd 
+,, Porto Claro ,BRAZIL,,,,,-89.41313,Porto Claro Airport 27,Kiteway Cargo,96646,,Sao Paulo,,,,,airport,42.98031,,,synthetic_v1,, 2868 Harbor Rd 
+,, Midori ,JP,Midori Warehouse 28,,11.19142,-95.55542,,,Asteron Logistics,,Chubu,, 7812 Canal Rd ,,,,warehouse,,,57453,synthetic_v1,,
+,, Cape Meridian ,,,,"-6,0099",,"-84,9499",Cape Meridian Warehouse 29,Granite Loop Transport,,KwaZulu-Natal,, 7277 Harbor Rd ,20589,ZA,,warehouse,,,,synthetic_v1,,
+ 9043 Transit Rd ,, Coral Reach ,,,,5.63994,,-63.30673,,Asteron Logistics,66370,,Victoria,,,AU,Coral Reach Warehouse 30,warehouse,,,,synthetic_v1,,
+ 1109 Harbor Rd ,, Monte Rio ,,,cross-dock,,-98.92760,,Monte Rio Cross-Dock 31,Granite Loop Transport,,Nuevo Leon,,,21188,MEXICO,,,-26.60929,,,synthetic_v1,,
+,, Northgate ,USA,Northgate Port 32,port,"-25,6759",,"12,0014",,Asteron Logistics,56090,Illinois,, 4722 Vector Rd ,,,,,,,,synthetic_v1,,
+,deutschland, Rheinhafen ,,,airport,-18.76255,,,,Asteron Logistics,,,Hesse,,13794,,Rheinhafen Airport 33,,,64.72867,,synthetic_v1,, 9987 Vector Rd 
+,United Kingdom, Avonford ,,,rail terminal,,,-32.95808,,Asteron Logistics,,,Wales,,,,Avonford Rail Terminal 34,,2.78492,,59308,synthetic_v1,, 1513 Transit Rd 
+ 7967 Canal Rd ,, Porto Claro ,,Porto Claro Port 35,,"-10,4150",,,,Granite Loop Transport,,Rio Grande do Sul,,,64287,Brasil,,port,,"78,8346",,synthetic_v1,,
+,, Aokawa ,,,airport,,,,,Asteron Logistics,,,,,49507,japan,Aokawa Airport 36,,50.07917,82.18437,,synthetic_v1,Kanto, 135 Transit Rd 
+ 8206 Delta Rd ,, Cape Meridian ,,Cape Meridian Rail Terminal 37,,0.73641,75.35116,,,Nimbus Freight,,,,,19447,ZA,,rail terminal,,,,synthetic_v1,KwaZulu-Natal,
+,, Redgum ,,,warehouse,,-27.0683,,,Kiteway Cargo,,,, 2825 Canal Rd ,57428,AU,Redgum Warehouse 38,,103.0108,,,synthetic_v1,Victoria,
+,, Valle Luna ,MEXICO,Valle Luna Airport 39,airport,,,133.72030,,Asteron Logistics,,,,,,,,,-3.40102,,55793,synthetic_v1,Jalisco, 8703 Transit Rd 
+,, Los Verdes ,,,,48.17388,,27.41278,,Granite Loop Transport,,,,,,US,Los Verdes Rail Terminal 0,rail terminal,,,99277,synthetic_v1,California, 7611 Canal Rd 
+ 5776 Harbor Rd ,, Nordstadt ,,Nordstadt Airport 1,airport,6.55682,,-114.84604,,Asteron Logistics,,Hesse,,,50685,deutschland,,,,,,synthetic_v1,,
+ 9376 Transit Rd ,UK, Carden ,,Carden Warehouse 2,,,,,,Granite Loop Transport,,,Wales,,52143,,,warehouse,19.45053,10.36917,,synthetic_v1,,
+ 8596 Summit Rd ,, Porto Claro ,brazil,,port,-1.44332,,,Porto Claro Port 3,Granite Loop Transport,57696,Bahia,,,,,,,,-48.61873,,synthetic_v1,,
+,, Hinode ,japan,,,-27.66482,,54.17527,Hinode Port 4,Kiteway Cargo,,Chubu,,,53694,,,port,,,,synthetic_v1,, 4138 Summit Rd 
+,, Cape Meridian ,south africa,Cape Meridian Parcel Hub 5,parcel hub,,,,,Nimbus Freight,,,, 8634 Harbor Rd ,,,,,,,94675,synthetic_v1,KwaZulu-Natal,
+,AU, Redgum ,,Redgum Warehouse 6,,,-81.19325,,,Asteron Logistics,88282,,,,,,,warehouse,-1.09521,,,synthetic_v1,Victoria, 5527 Summit Rd 
+,MEXICO, Piedra Alta ,,,,51.90370,,,,Granite Loop Transport,50562,,, 3843 Transit Rd ,,,Piedra Alta Rail Terminal 7,rail terminal,,86.77996,,synthetic_v1,Nuevo Leon,
+,United States, Los Verdes ,,,cross-dock,,-97.30077,,,Kiteway Cargo,58655,,,,,,Los Verdes Cross-Dock 8,,14.90867,,,synthetic_v1,Illinois, 864 Canal Rd 
+,Deutschland, Rheinhafen ,,,port,0.68086,,,,Kiteway Cargo,,,,,,,Rheinhafen Port 9,,,-24.03040,16980,synthetic_v1,Bavaria, 446 Foundry Rd 
+,, Avonford ,,Avonford Parcel Hub 10,,,,,,Granite Loop Transport,,,,,,UNITED KINGDOM,,parcel hub,,,68799,synthetic_v1,England, 2283 Canal Rd 
+,BRAZIL, Porto Claro ,,,rail terminal,18.70651,,,Porto Claro Rail Terminal 11,Granite Loop Transport,,,, 1039 Harbor Rd ,,,,,,-120.56245,75513,synthetic_v1,Rio Grande do Sul,
+,JP, Hinode ,,,cross-dock,50.80633,21.90213,,Hinode Cross-Dock 12,Asteron Logistics,,,, 8586 Delta Rd ,,,,,,,18870,synthetic_v1,Kanto,
+,, Cape Meridian ,,,warehouse,,,44.62938,,Kiteway Cargo,,,,,41604,South Africa,Cape Meridian Warehouse 13,,30.96469,,,synthetic_v1,KwaZulu-Natal, 1116 Delta Rd 
+ 2219 Harbor Rd ,, Bluehaven ,,,,-31.67146,,,,Nimbus Freight,,,,,69988,Australia,Bluehaven Port 14,port,,-70.57043,,synthetic_v1,Queensland,
+,Mexico, Piedra Alta ,,,,-23.79725,-25.63482,,,Kiteway Cargo,45811,,Jalisco, 793 Delta Rd ,,,Piedra Alta Parcel Hub 15,parcel hub,,,,synthetic_v1,,
+ 1303 Foundry Rd ,, Mason ,,Mason Warehouse 16,,54.55883,,,,Granite Loop Transport,88964,,,,,United States,,warehouse,,-76.27675,,synthetic_v1,Texas,
+,Deutschland, Kalten ,,Kalten Parcel Hub 17,,,,,,Granite Loop Transport,,Hesse,, 703 Delta Rd ,90589,,,parcel hub,54.83355,-50.87005,,synthetic_v1,,
+ 580 Summit Rd ,, Avonford ,,Avonford Rail Terminal 18,rail terminal,-13.76042,,,,Granite Loop Transport,18812,,,,,GB,,,,49.19398,,synthetic_v1,Wales,
+ 6531 Delta Rd ,, Sertao Azul ,,,,,,,,Kiteway Cargo,95139,,Sao Paulo,,,BRAZIL,Sertao Azul Airport 19,airport,,,,synthetic_v1,,
+ 3289 Harbor Rd ,, Hinode ,Nippon,Hinode Rail Terminal 20,,41.75437,-2.94847,,,Granite Loop Transport,,,,,27790,,,rail terminal,,,,synthetic_v1,Kanto,
+ 5932 Transit Rd ,, New Umber ,,New Umber Rail Terminal 21,,,,53.6619,,Nimbus Freight,25907,KwaZulu-Natal,,,,ZA,,rail terminal,88.8577,,,synthetic_v1,,
+,, Redgum ,,Redgum Parcel Hub 22,,,,-105.08731,,Granite Loop Transport,,New South Wales,, 7852 Foundry Rd ,63665,Australia,,parcel hub,39.10055,,,synthetic_v1,,
+ 7098 Axis Rd ,, Piedra Alta ,,Piedra Alta Cross-Dock 23,,,,"-42,8864",,Nimbus Freight,,,,,,Mexico,,cross-dock,"11,6292",,26274,synthetic_v1,Puebla,
+ 8750 Harbor Rd ,, Mason ,UNITED STATES,,,,,34.78828,Mason Cross-Dock 24,Kiteway Cargo,,,Texas,,,,,cross-dock,22.68887,,75873,synthetic_v1,,
+,, Kalten ,,,,22.50921,9.47028,,Kalten Rail Terminal 25,Nimbus Freight,,,Hesse, 9383 Foundry Rd ,91016,deutschland,,rail terminal,,,,synthetic_v1,,
+,United Kingdom, Avonford ,,,,,"-33,1480",,,Nimbus Freight,73471,,Wales, 7212 Foundry Rd ,,,Avonford Warehouse 26,warehouse,"6,7998",,,synthetic_v1,,
+,BR, Porto Claro ,,,warehouse,-26.28695,,,,Kiteway Cargo,,,,,28465,,Porto Claro Warehouse 27,,,-46.64276,,synthetic_v1,Rio Grande do Sul, 7376 Transit Rd 
+,, Aokawa ,,Aokawa Airport 28,,-32.91413,130.21286,,,Granite Loop Transport,75191,,Kanto,,,JAPAN,,airport,,,,synthetic_v1,, 8181 Vector Rd 
+,, Zulu Point ,ZA,,warehouse,33.74711,,-26.19691,Zulu Point Warehouse 29,Granite Loop Transport,57943,Gauteng,, 2204 Vector Rd ,,,,,,,,synthetic_v1,,
+ 2118 Harbor Rd ,australia, Bluehaven ,,Bluehaven Parcel Hub 30,parcel hub,,,,,Asteron Logistics,61629,Queensland,,,,,,,-1.41215,141.43267,,synthetic_v1,,
+,, Valle Luna ,,,rail terminal,19.56345,,14.18655,,Kiteway Cargo,,Jalisco,, 7771 Canal Rd ,29521,MX,Valle Luna Rail Terminal 31,,,,,synthetic_v1,,
+ 7790 Axis Rd ,united states, Mason ,,,port,,,-95.40676,Mason Port 32,Kiteway Cargo,58281,,,,,,,,-5.18844,,,synthetic_v1,Illinois,
+,, Rheinhafen ,,Rheinhafen Port 33,port,,-59.60693,,,Nimbus Freight,29369,,,,,Deutschland,,,38.94952,,,synthetic_v1,Saxony, 8599 Foundry Rd 
+,, Carden ,,,,-16.33925,,-37.23663,,Granite Loop Transport,,,,,77984,GB,Carden Port 34,port,,,,synthetic_v1,England, 1030 Summit Rd 
+ 7942 Transit Rd ,, Sertao Azul ,,,rail terminal,-9.88942,-44.40523,,,Kiteway Cargo,42311,Bahia,,,,brazil,Sertao Azul Rail Terminal 35,,,,,synthetic_v1,,
+ 2006 Foundry Rd ,, Hinode ,,Hinode Parcel Hub 36,,38.65397,,132.74439,,Kiteway Cargo,61712,,Chubu,,,japan,,parcel hub,,,,synthetic_v1,,
+ 9218 Vector Rd ,, Cape Meridian ,South Africa,,cross-dock,75.0406,-25.1696,,Cape Meridian Cross-Dock 37,Kiteway Cargo,,,Gauteng,,,,,,,,27992,synthetic_v1,,
+,, Coral Reach ,Australia,Coral Reach Warehouse 38,,,,112.77481,,Nimbus Freight,,,, 94 Summit Rd ,63334,,,warehouse,23.76035,,,synthetic_v1,Victoria,
+,MX, Piedra Alta ,,Piedra Alta Airport 39,,,-115.18824,,,Asteron Logistics,33040,,Jalisco,,,,,airport,49.05303,,,synthetic_v1,, 2878 Foundry Rd 
+ 2208 Canal Rd ,USA, Northgate ,,,,"-17,6470","-94,5854",,Northgate Rail Terminal 0,Granite Loop Transport,,,Texas,,,,,rail terminal,,,45761,synthetic_v1,,
+,, Kalten ,,,,,,,,Nimbus Freight,77538,,Saxony,,,DEUTSCHLAND,Kalten Cross-Dock 1,cross-dock,,,,synthetic_v1,, 6653 Foundry Rd 
+ 4295 Delta Rd ,, Dunmere ,,,,-29.40881,,-93.07929,Dunmere Parcel Hub 2,Asteron Logistics,,,Scotland,,40972,UK,,parcel hub,,,,synthetic_v1,,
+,, Porto Claro ,BR,,cross-dock,-1.37376,,64.52400,Porto Claro Cross-Dock 3,Granite Loop Transport,,Sao Paulo,,,89395,,,,,,,synthetic_v1,, 2519 Canal Rd 
+ 1021 Transit Rd ,, Hinode ,Nippon,Hinode Warehouse 4,warehouse,13.29941,,,,Asteron Logistics,85065,Kanto,,,,,,,,-80.57497,,synthetic_v1,,
+ 7494 Axis Rd ,, Cape Meridian ,ZA,,airport,,92.86715,,,Granite Loop Transport,,,Gauteng,,83242,,Cape Meridian Airport 5,,6.61405,,,synthetic_v1,,
+,, Bluehaven ,,,,"-9,1618",,,Bluehaven Warehouse 6,Asteron Logistics,14159,,, 1140 Canal Rd ,,Australia,,warehouse,,"-76,4050",,synthetic_v1,Queensland,
+,MEXICO, Piedra Alta ,,Piedra Alta Airport 7,airport,"54,3562",,"-18,8742",,Nimbus Freight,,,, 5707 Harbor Rd ,33392,,,,,,,synthetic_v1,Puebla,
+ 5681 Summit Rd ,, Northgate ,United States,,,,,,Northgate Cross-Dock 8,Granite Loop Transport,,,California,,,,,cross-dock,-18.03676,111.30621,46129,synthetic_v1,,
+,, Kalten ,,Kalten Port 9,,4.50665,,,,Asteron Logistics,,Bavaria,,,62725,Deutschland,,port,,20.73515,,synthetic_v1,, 4019 Axis Rd 
+ 6785 Vector Rd ,, Dunmere ,,,,-29.51381,,131.10047,Dunmere Rail Terminal 10,Nimbus Freight,,,,,,UNITED KINGDOM,,rail terminal,,,46064,synthetic_v1,England,
+,, Nova Leste ,,,port,20.2406,,-18.4509,,Granite Loop Transport,,,Bahia, 2454 Vector Rd ,59343,BRAZIL,Nova Leste Port 11,,,,,synthetic_v1,,
+,Japan, Hinode ,,,port,,,,Hinode Port 12,Nimbus Freight,53288,,,,,,,,23.20353,124.00105,,synthetic_v1,Kansai, 4187 Transit Rd 
+ 7864 Transit Rd ,SOUTH AFRICA, New Umber ,,,rail terminal,,"120,4284",,New Umber Rail Terminal 13,Nimbus Freight,,,,,,,,,"-7,7131",,53642,synthetic_v1,KwaZulu-Natal,
+ 6246 Canal Rd ,, Redgum ,AU,,parcel hub,23.38492,-41.72598,,,Kiteway Cargo,79946,,,,,,Redgum Parcel Hub 14,,,,,synthetic_v1,Queensland,
+,mexico, Monte Rio ,,Monte Rio Airport 15,airport,,32.68861,,,Nimbus Freight,44180,,Jalisco, 2400 Axis Rd ,,,,,14.79804,,,synthetic_v1,,
+ 4226 Canal Rd ,, Mason ,united states,Mason Rail Terminal 16,rail terminal,,,-0.57617,,Kiteway Cargo,94108,Illinois,,,,,,,31.56347,,,synthetic_v1,,
+,Deutschland, Rheinhafen ,,Rheinhafen Rail Terminal 17,,40.82902,,-62.51298,,Asteron Logistics,,,Bavaria, 114 Foundry Rd ,28021,,,rail terminal,,,,synthetic_v1,,
+,GB, Dunmere ,,,,,,,Dunmere Warehouse 18,Granite Loop Transport,,,England,,,,,warehouse,29.99734,19.64929,79391,synthetic_v1,, 204 Axis Rd 
+,BRAZIL, Porto Claro ,,,airport,,,,Porto Claro Airport 19,Kiteway Cargo,,Bahia,, 5817 Vector Rd ,,,,,-27.88827,134.01040,62022,synthetic_v1,,
+ 929 Axis Rd ,, Midori ,japan,,port,-27.55825,103.23904,,Midori Port 20,Granite Loop Transport,,,Kanto,,,,,,,,32463,synthetic_v1,,
+,ZA, New Umber ,,New Umber Rail Terminal 21,,,,-40.08913,,Kiteway Cargo,,,,,,,,rail terminal,48.58897,,33508,synthetic_v1,Gauteng, 8907 Axis Rd 
+,AU, Bluehaven ,,Bluehaven Airport 22,airport,,,,,Kiteway Cargo,,Queensland,, 6298 Summit Rd ,20279,,,,,,,synthetic_v1,,
+,, Valle Luna ,MX,,,,,,Valle Luna Parcel Hub 23,Granite Loop Transport,56636,Puebla,,,,,,parcel hub,"14,7734","-23,6347",,synthetic_v1,, 8048 Transit Rd 
+,, Northgate ,,,port,-25.41042,,-123.59729,,Nimbus Freight,,,California,,,united states,Northgate Port 24,,,,57277,synthetic_v1,, 6393 Delta Rd 
+,Germany, Kalten ,,Kalten Port 25,,,,36.16963,,Asteron Logistics,,,, 440 Harbor Rd ,,,,port,14.87978,,56388,synthetic_v1,Saxony,
+,, Carden ,,,,,,,,Granite Loop Transport,,,, 2787 Summit Rd ,,UK,Carden Rail Terminal 26,rail terminal,,,45247,synthetic_v1,England,
+,BR, Sertao Azul ,,,,,131.18233,,,Nimbus Freight,27758,,, 7511 Harbor Rd ,,,Sertao Azul Port 27,port,-7.58078,,,synthetic_v1,Bahia,
+ 7858 Delta Rd ,, Midori ,,,,51.81172,136.55581,,Midori Rail Terminal 28,Nimbus Freight,33283,,Chubu,,,Japan,,rail terminal,,,,synthetic_v1,,
+,, Cape Meridian ,,Cape Meridian Airport 29,,34.08561,,,,Nimbus Freight,,Gauteng,, 9713 Summit Rd ,,South Africa,,airport,,-117.73265,99353,synthetic_v1,,
+ 2535 Foundry Rd ,AU, Coral Reach ,,,,,,,Coral Reach Cross-Dock 30,Kiteway Cargo,59412,,Victoria,,,,,cross-dock,-28.34314,142.48917,,synthetic_v1,,
+,, Valle Luna ,mexico,,rail terminal,,57.91741,,,Kiteway Cargo,83822,,Puebla,,,,Valle Luna Rail Terminal 31,,53.52474,,,synthetic_v1,, 2735 Axis Rd 
+,, Northgate ,,,port,,,-12.68663,Northgate Port 32,Nimbus Freight,73277,,, 5661 Axis Rd ,,United States,,,-25.59056,,,synthetic_v1,Texas,
+ 7188 Canal Rd ,, Nordstadt ,Deutschland,,port,,,-112.93558,,Asteron Logistics,,,Hesse,,51800,,Nordstadt Port 33,,-28.95431,,,synthetic_v1,,
+,, Avonford ,,Avonford Airport 34,airport,,,-74.67553,,Granite Loop Transport,63090,Scotland,, 7580 Transit Rd ,,UK,,,21.67843,,,synthetic_v1,,
+ 9469 Harbor Rd ,brazil, Porto Claro ,,,,-18.17361,,-36.98407,Porto Claro Parcel Hub 35,Asteron Logistics,80371,Sao Paulo,,,,,,parcel hub,,,,synthetic_v1,,
+ 5776 Canal Rd ,, Midori ,JP,,warehouse,,56.86899,,Midori Warehouse 36,Kiteway Cargo,90918,,Chubu,,,,,,-19.47252,,,synthetic_v1,,
+ 8379 Foundry Rd ,, New Umber ,,,parcel hub,,,,New Umber Parcel Hub 37,Nimbus Freight,64819,,Gauteng,,,ZA,,,18.67832,30.19763,,synthetic_v1,,
+,, Bluehaven ,,,,-22.71188,95.10830,,Bluehaven Airport 38,Asteron Logistics,73518,Victoria,, 5892 Axis Rd ,,AU,,airport,,,,synthetic_v1,,
+ 3623 Vector Rd ,MX, Valle Luna ,,,,,"20,1543",,Valle Luna Airport 39,Asteron Logistics,,Jalisco,,,,,,airport,"-10,2632",,14285,synthetic_v1,,
+,, Mason ,,Mason Airport 0,,,,,,Asteron Logistics,,,, 7241 Transit Rd ,,united states,,airport,-25.78252,99.11909,65725,synthetic_v1,Texas,
+ 7025 Summit Rd ,Deutschland, Rheinhafen ,,,,,"-69,2127",,Rheinhafen Airport 1,Kiteway Cargo,,,,,90760,,,airport,"-22,4689",,,synthetic_v1,Saxony,
+ 8438 Harbor Rd ,, Carden ,united kingdom,,parcel hub,51.64948,,,Carden Parcel Hub 2,Kiteway Cargo,,,Scotland,,,,,,,87.13658,27771,synthetic_v1,,
+ 9470 Vector Rd ,, Sertao Azul ,,,,2.28026,,-2.96223,,Nimbus Freight,92288,,,,,Brazil,Sertao Azul Port 3,port,,,,synthetic_v1,Rio Grande do Sul,
+,Nippon, Aokawa ,,,,,,136.39472,,Granite Loop Transport,,,, 5879 Harbor Rd ,80048,,Aokawa Warehouse 4,warehouse,0.79443,,,synthetic_v1,Chubu,
+,SOUTH AFRICA, Cape Meridian ,,,,,,"-0,9129",,Asteron Logistics,,,,,,,Cape Meridian Rail Terminal 5,rail terminal,"35,5501",,92074,synthetic_v1,Western Cape, 762 Harbor Rd 
+ 5915 Vector Rd ,, Bluehaven ,,,,,,"119,0261",Bluehaven Parcel Hub 6,Asteron Logistics,,New South Wales,,,,AU,,parcel hub,"-1,5341",,20803,synthetic_v1,,
+,, Valle Luna ,,,cross-dock,,,,,Granite Loop Transport,,Jalisco,, 1286 Summit Rd ,,Mexico,Valle Luna Cross-Dock 7,,,,87814,synthetic_v1,,
+,, Northgate ,UNITED STATES,,rail terminal,,-87.97509,,Northgate Rail Terminal 8,Asteron Logistics,,California,,,58177,,,,44.28901,,,synthetic_v1,, 1700 Delta Rd 
+,, Nordstadt ,DE,,,,-97.87442,,Nordstadt Cross-Dock 9,Nimbus Freight,38474,,, 6755 Canal Rd ,,,,cross-dock,-27.19808,,,synthetic_v1,Saxony,
+,, Carden ,united kingdom,,cross-dock,,12.57109,,Carden Cross-Dock 10,Kiteway Cargo,36928,,,,,,,,11.59742,,,synthetic_v1,England, 449 Vector Rd 
+,BR, Sertao Azul ,,,warehouse,,,,Sertao Azul Warehouse 11,Asteron Logistics,,,Bahia, 5926 Delta Rd ,,,,,-0.18456,101.52279,27299,synthetic_v1,,
+,, Midori ,Nippon,Midori Warehouse 12,warehouse,,,,,Asteron Logistics,92388,,Kansai, 6530 Vector Rd ,,,,,29.13662,82.11970,,synthetic_v1,,
+,ZA, Zulu Point ,,,port,,,,Zulu Point Port 13,Asteron Logistics,,Western Cape,, 5091 Foundry Rd ,41278,,,,-29.78847,-101.72254,,synthetic_v1,,
+ 2694 Canal Rd ,, Redgum ,AUSTRALIA,,cross-dock,,86.40652,,,Asteron Logistics,,,,,55443,,Redgum Cross-Dock 14,,12.07048,,,synthetic_v1,Queensland,
+,MX, Monte Rio ,,Monte Rio Airport 15,,,,,,Asteron Logistics,,,,,,,,airport,5.96780,-27.76655,75031,synthetic_v1,Nuevo Leon, 4318 Harbor Rd 
+,, Mason ,,,,"7,4588","-21,5955",,Mason Warehouse 16,Asteron Logistics,,,,,,United States,,warehouse,,,16026,synthetic_v1,Illinois, 211 Transit Rd 
+,, Rheinhafen ,Germany,Rheinhafen Parcel Hub 17,,,,,,Asteron Logistics,33507,,, 8235 Axis Rd ,,,,parcel hub,,,,synthetic_v1,Saxony,
+,, Dunmere ,UNITED KINGDOM,,parcel hub,,,8.20738,Dunmere Parcel Hub 18,Kiteway Cargo,58270,,England,,,,,,18.25218,,,synthetic_v1,, 3984 Canal Rd 
+,, Nova Leste ,BRAZIL,,rail terminal,-1.13527,,,Nova Leste Rail Terminal 19,Asteron Logistics,,,, 5498 Axis Rd ,,,,,,74.28232,96154,synthetic_v1,Bahia,
+,, Aokawa ,Nippon,Aokawa Airport 20,airport,17.26936,11.46550,,,Granite Loop Transport,,Kansai,, 6112 Canal Rd ,,,,,,,21128,synthetic_v1,,
+,, Cape Meridian ,,Cape Meridian Rail Terminal 21,rail terminal,"-13,9750","129,7598",,,Kiteway Cargo,45645,,Western Cape,,,ZA,,,,,,synthetic_v1,, 5221 Canal Rd 
+,, Redgum ,Australia,,parcel hub,,"-92,6233",,,Nimbus Freight,,,,,,,Redgum Parcel Hub 22,,"-11,1493",,70731,synthetic_v1,Queensland, 7414 Vector Rd 
+,, Monte Rio ,MX,Monte Rio Warehouse 23,warehouse,,,,,Kiteway Cargo,,,Puebla, 4272 Summit Rd ,,,,,50.68869,105.74235,14073,synthetic_v1,,
+,, Los Verdes ,United States,Los Verdes Cross-Dock 24,,,,,,Granite Loop Transport,86326,,California,,,,,cross-dock,,,,synthetic_v1,, 6108 Harbor Rd 
+,DEUTSCHLAND, Rheinhafen ,,,,,,-9.80072,,Granite Loop Transport,,,Bavaria, 6481 Canal Rd ,,,Rheinhafen Airport 25,airport,-0.55435,,13864,synthetic_v1,,
+,, Dunmere ,,Dunmere Port 26,port,-0.52863,-11.80660,,,Granite Loop Transport,46670,Scotland,, 1009 Harbor Rd ,,GB,,,,,,synthetic_v1,,
+ 4440 Summit Rd ,, Sertao Azul ,brazil,Sertao Azul Parcel Hub 27,,,,,,Granite Loop Transport,,,,,13416,,,parcel hub,-6.30102,-65.86455,,synthetic_v1,Bahia,
+ 8753 Axis Rd ,JAPAN, Aokawa ,,Aokawa Cross-Dock 28,cross-dock,16.81229,,140.31945,,Kiteway Cargo,,,,,38758,,,,,,,synthetic_v1,Chubu,
+,, New Umber ,ZA,,,,,,New Umber Rail Terminal 29,Kiteway Cargo,,,,,,,,rail terminal,50.35317,100.90815,83807,synthetic_v1,KwaZulu-Natal, 9310 Summit Rd 
+,, Coral Reach ,australia,Coral Reach Warehouse 30,warehouse,,,-89.76782,,Granite Loop Transport,,New South Wales,,,90495,,,,-16.86821,,,synthetic_v1,, 21 Delta Rd 
+ 9611 Harbor Rd ,MX, Monte Rio ,,,,"-7,8411",,,Monte Rio Parcel Hub 31,Granite Loop Transport,,,,,,,,parcel hub,,"-88,1580",54113,synthetic_v1,Jalisco,
+,US, Mason ,,,cross-dock,,,-124.51457,,Granite Loop Transport,26691,Illinois,,,,,Mason Cross-Dock 32,,-19.00625,,,synthetic_v1,, 5036 Vector Rd 
+,, Kalten ,Deutschland,,,,,-38.72996,Kalten Port 33,Nimbus Freight,41194,,Bavaria, 5435 Harbor Rd ,,,,port,-3.78709,,,synthetic_v1,,
+,, Avonford ,UK,,,"4,4398",,"-11,6936",,Asteron Logistics,60585,Scotland,, 30 Axis Rd ,,,Avonford Parcel Hub 34,parcel hub,,,,synthetic_v1,,
+,, Sertao Azul ,Brazil,,cross-dock,,-38.94643,,,Nimbus Freight,,,Bahia, 7403 Harbor Rd ,14379,,Sertao Azul Cross-Dock 35,,-8.45822,,,synthetic_v1,,
+ 7076 Summit Rd ,JAPAN, Hinode ,,Hinode Port 36,,"45,0778",,"-82,5820",,Asteron Logistics,,Chubu,,,89602,,,port,,,,synthetic_v1,,
+,South Africa, Cape Meridian ,,,cross-dock,,,,,Asteron Logistics,,Western Cape,, 823 Foundry Rd ,84943,,Cape Meridian Cross-Dock 37,,,,,synthetic_v1,,
+,, Redgum ,,,,,-41.74458,,Redgum Cross-Dock 38,Nimbus Freight,,New South Wales,,,72071,AU,,cross-dock,40.93922,,,synthetic_v1,, 4791 Harbor Rd 
+,Mexico, Monte Rio ,,Monte Rio Cross-Dock 39,cross-dock,-63.9146,,6.8552,,Granite Loop Transport,67637,Nuevo Leon,,,,,,,,,,synthetic_v1,, 741 Vector Rd 
+,, Los Verdes ,UNITED STATES,,,,,,,Granite Loop Transport,,,,,80190,,Los Verdes Warehouse 0,warehouse,26.83611,127.81759,,synthetic_v1,Illinois, 8571 Foundry Rd 
+,, Nordstadt ,Deutschland,Nordstadt Cross-Dock 1,,3.10374,,141.83558,,Nimbus Freight,,Bavaria,, 3167 Summit Rd ,,,,cross-dock,,,15593,synthetic_v1,,
+,UK, Dunmere ,,Dunmere Parcel Hub 2,,,,,,Kiteway Cargo,,,Wales,,11620,,,parcel hub,35.78956,43.22564,,synthetic_v1,, 8524 Canal Rd 
+,BRAZIL, Sertao Azul ,,,,23.93089,,,,Kiteway Cargo,,Sao Paulo,,,60206,,Sertao Azul Parcel Hub 3,parcel hub,,29.44627,,synthetic_v1,, 6742 Vector Rd 
+,, Midori ,japan,,,,,,,Nimbus Freight,,Kanto,, 817 Canal Rd ,45203,,Midori Rail Terminal 4,rail terminal,45.73282,-119.53712,,synthetic_v1,,
+ 4424 Foundry Rd ,ZA, Cape Meridian ,,,,,,,Cape Meridian Port 5,Kiteway Cargo,,,,,,,,port,"23,0999","-74,2574",89295,synthetic_v1,KwaZulu-Natal,
+,, Bluehaven ,AUSTRALIA,Bluehaven Airport 6,,-17.65129,99.89108,,,Granite Loop Transport,,,,,32772,,,airport,,,,synthetic_v1,Queensland, 2232 Axis Rd 
+,MX, Monte Rio ,,,,,-4.55207,,Monte Rio Port 7,Asteron Logistics,58819,,Puebla, 510 Transit Rd ,,,,port,8.99081,,,synthetic_v1,,
+ 9385 Transit Rd ,, Los Verdes ,USA,,warehouse,,,23.2642,Los Verdes Warehouse 8,Nimbus Freight,39012,,Texas,,,,,,57.9777,,,synthetic_v1,,
+ 4521 Foundry Rd ,deutschland, Rheinhafen ,,,,"41,6428",,"-1,0705",Rheinhafen Parcel Hub 9,Kiteway Cargo,,,Bavaria,,,,,parcel hub,,,59345,synthetic_v1,,
+,, Carden ,united kingdom,,,,,141.85746,,Kiteway Cargo,,,Wales,,73142,,Carden Airport 10,airport,-29.25467,,,synthetic_v1,, 4900 Harbor Rd 
+,, Nova Leste ,Brazil,,parcel hub,-11.65164,,-11.98726,Nova Leste Parcel Hub 11,Nimbus Freight,,Bahia,, 427 Canal Rd ,48745,,,,,,,synthetic_v1,,
+ 9156 Summit Rd ,, Midori ,,Midori Parcel Hub 12,,,,-26.2157,,Nimbus Freight,,,Chubu,,,JP,,parcel hub,-90.4551,,48506,synthetic_v1,,
+,, Cape Meridian ,ZA,,parcel hub,41.60925,,2.04487,Cape Meridian Parcel Hub 13,Kiteway Cargo,,,Western Cape, 4279 Vector Rd ,70786,,,,,,,synthetic_v1,,
+ 2260 Transit Rd ,, Bluehaven ,,Bluehaven Warehouse 14,,1.82727,,28.73897,,Nimbus Freight,,,Victoria,,,AU,,warehouse,,,54914,synthetic_v1,,
+,MEXICO, Valle Luna ,,,rail terminal,-16.15559,83.85641,,,Asteron Logistics,45851,Nuevo Leon,,,,,Valle Luna Rail Terminal 15,,,,,synthetic_v1,, 87 Canal Rd 
+ 628 Transit Rd ,US, Northgate ,,Northgate Port 16,port,,,,,Asteron Logistics,,,Texas,,58903,,,,50.50618,115.84173,,synthetic_v1,,
+ 1692 Foundry Rd ,deutschland, Kalten ,,,,17.98036,-79.90455,,,Nimbus Freight,,Hesse,,,75973,,Kalten Parcel Hub 17,parcel hub,,,,synthetic_v1,,
+,UNITED KINGDOM, Carden ,,Carden Parcel Hub 18,parcel hub,,,,,Granite Loop Transport,,England,,,,,,,50.32759,122.91546,31611,synthetic_v1,, 5895 Transit Rd 
+,, Nova Leste ,,,rail terminal,,,,Nova Leste Rail Terminal 19,Asteron Logistics,,Bahia,,,,Brazil,,,,,80088,synthetic_v1,, 6157 Vector Rd 
+ 2518 Transit Rd ,, Aokawa ,Japan,,,21.72802,,,Aokawa Parcel Hub 20,Granite Loop Transport,,Chubu,,,99881,,,parcel hub,,-43.69856,,synthetic_v1,,
+ 4641 Harbor Rd ,, Zulu Point ,ZA,Zulu Point Airport 21,,,,39.43049,,Asteron Logistics,23928,,,,,,,airport,9.79652,,,synthetic_v1,KwaZulu-Natal,
+,, Bluehaven ,AU,,,,"-100,9692",,Bluehaven Rail Terminal 22,Granite Loop Transport,,,New South Wales,,10358,,,rail terminal,"-33,8526",,,synthetic_v1,, 5426 Transit Rd 
+,, Piedra Alta ,mexico,,,,,,,Kiteway Cargo,,Jalisco,, 4337 Canal Rd ,,,Piedra Alta Port 23,port,,,16564,synthetic_v1,,
+,, Los Verdes ,,,rail terminal,50.95802,-52.55646,,,Nimbus Freight,67372,,,,,united states,Los Verdes Rail Terminal 24,,,,,synthetic_v1,Illinois, 5394 Delta Rd 
+,, Kalten ,,,,,,"102,9745",,Nimbus Freight,17686,Hesse,,,,DE,Kalten Port 25,port,"53,3412",,,synthetic_v1,, 1862 Summit Rd 
+ 1860 Foundry Rd ,United Kingdom, Carden ,,,port,,-54.36453,,Carden Port 26,Granite Loop Transport,,,,,67761,,,,-30.86249,,,synthetic_v1,England,
+ 5674 Foundry Rd ,, Sertao Azul ,Brazil,Sertao Azul Cross-Dock 27,cross-dock,,25.75294,,,Granite Loop Transport,29484,,,,,,,,40.51297,,,synthetic_v1,Bahia,
+,, Midori ,,,,,22.8986,,,Kiteway Cargo,82154,,,,,Nippon,Midori Parcel Hub 28,parcel hub,-16.1152,,,synthetic_v1,Kansai, 834 Transit Rd 
+ 6619 Foundry Rd ,ZA, Zulu Point ,,,,,,,Zulu Point Warehouse 29,Asteron Logistics,,KwaZulu-Natal,,,,,,warehouse,,,14696,synthetic_v1,,
+,, Cape Meridian ,,,warehouse,,,44.62938,,Kiteway Cargo,,,,,41604,South Africa,Cape Meridian Warehouse 13,,30.96469,,,synthetic_v1,KwaZulu-Natal, 1116 Delta Rd 
+,, Nova Leste ,Brazil,,parcel hub,-11.65164,,-11.98726,Nova Leste Parcel Hub 11,Nimbus Freight,,Bahia,, 427 Canal Rd ,48745,,,,,,,synthetic_v1,,
+,, Cape Meridian ,,,parcel hub,,,,Cape Meridian Parcel Hub 13,Granite Loop Transport,,,Gauteng,,,South Africa,,,,,68082,synthetic_v1,, 4102 Harbor Rd 
+ 4521 Foundry Rd ,deutschland, Rheinhafen ,,,,"41,6428",,"-1,0705",Rheinhafen Parcel Hub 9,Kiteway Cargo,,,Bavaria,,,,,parcel hub,,,59345,synthetic_v1,,
+ 2395 Transit Rd ,, Nordstadt ,,Nordstadt Parcel Hub 17,,,,,,Granite Loop Transport,,Hesse,,,,DEUTSCHLAND,,parcel hub,"2,0847","59,0861",79621,synthetic_v1,,
+ 628 Transit Rd ,US, Northgate ,,Northgate Port 16,port,,,,,Asteron Logistics,,,Texas,,58903,,,,50.50618,115.84173,,synthetic_v1,,
+ 2006 Foundry Rd ,, Hinode ,,Hinode Parcel Hub 36,,38.65397,,132.74439,,Kiteway Cargo,61712,,Chubu,,,japan,,parcel hub,,,,synthetic_v1,,
+,, Hinode ,japan,,,-27.66482,,54.17527,Hinode Port 4,Kiteway Cargo,,Chubu,,,53694,,,port,,,,synthetic_v1,, 4138 Summit Rd 
+,, Valle Luna ,MX,,,,,,Valle Luna Parcel Hub 23,Granite Loop Transport,56636,Puebla,,,,,,parcel hub,"14,7734","-23,6347",,synthetic_v1,, 8048 Transit Rd 
+ 7076 Summit Rd ,JAPAN, Hinode ,,Hinode Port 36,,"45,0778",,"-82,5820",,Asteron Logistics,,Chubu,,,89602,,,port,,,,synthetic_v1,,
+,, Bluehaven ,,,,-22.71188,95.10830,,Bluehaven Airport 38,Asteron Logistics,73518,Victoria,, 5892 Axis Rd ,,AU,,airport,,,,synthetic_v1,,
+ 7188 Canal Rd ,, Nordstadt ,Deutschland,,port,,,-112.93558,,Asteron Logistics,,,Hesse,,51800,,Nordstadt Port 33,,-28.95431,,,synthetic_v1,,
+,, Kalten ,,,,,,,,Nimbus Freight,77538,,Saxony,,,DEUTSCHLAND,Kalten Cross-Dock 1,cross-dock,,,,synthetic_v1,, 6653 Foundry Rd 
+,, Monte Rio ,MX,Monte Rio Warehouse 23,warehouse,,,,,Kiteway Cargo,,,Puebla, 4272 Summit Rd ,,,,,50.68869,105.74235,14073,synthetic_v1,,
+,, Northgate ,UNITED STATES,,rail terminal,,-87.97509,,Northgate Rail Terminal 8,Asteron Logistics,,California,,,58177,,,,44.28901,,,synthetic_v1,, 1700 Delta Rd 
+,, Cape Meridian ,,,warehouse,,,44.62938,,Kiteway Cargo,,,,,41604,South Africa,Cape Meridian Warehouse 13,,30.96469,,,synthetic_v1,KwaZulu-Natal, 1116 Delta Rd 
+,, Monte Rio ,MX,Monte Rio Warehouse 23,warehouse,,,,,Kiteway Cargo,,,Puebla, 4272 Summit Rd ,,,,,50.68869,105.74235,14073,synthetic_v1,,
+ 7942 Transit Rd ,, Sertao Azul ,,,rail terminal,-9.88942,-44.40523,,,Kiteway Cargo,42311,Bahia,,,,brazil,Sertao Azul Rail Terminal 35,,,,,synthetic_v1,,
+ 8986 Canal Rd ,, Zulu Point ,SOUTH AFRICA,,,3.1621,31.9290,,Zulu Point Airport 29,Granite Loop Transport,,,,,30861,,,airport,,,,synthetic_v1,KwaZulu-Natal,
+ 5977 Foundry Rd ,, Northgate ,,Northgate Airport 24,,50.39870,123.60813,,,Nimbus Freight,,,,,19171,U.S.,,airport,,,,synthetic_v1,California,
+,,Avonford  ,UK,,,"4,4398",,"-11,6936",,Asteron Logistics,60585,Scotland,, 30 Axis Rd ,,,Avonford Parcel Hub 34,parcel hub,,,,synthetic_v1,,
+,,Northgate  ,UNITED STATES,,rail terminal,,-87.97509,,Northgate Rail Terminal 8,Asteron Logistics,,California,,,58177,,,,44.28901,,,synthetic_v1,, 1700 Delta Rd 
+ 3737 Harbor Rd ,,Los Verdes  ,United States,,rail terminal,53.05040,,,,Kiteway Cargo,,,,,,,Los Verdes Rail Terminal 16,,,80.29982,66881,synthetic_v1,California,
+,,Mason  ,United States,,,,,57.70886,Mason Warehouse 0,Kiteway Cargo,,,California,,,,,warehouse,31.28241,,28289,synthetic_v1,, 4022 Transit Rd 
+,MEXICO,Piedra Alta  ,,,,51.90370,,,,Granite Loop Transport,50562,,, 3843 Transit Rd ,,,Piedra Alta Rail Terminal 7,rail terminal,,86.77996,,synthetic_v1,Nuevo Leon,
+,,Avonford  ,,Avonford-Parcel-Hub-10,,,,,,Granite Loop Transport,,,,,,UNITED KINGDOM,,parcel hub,,,68799,synthetic_v1,England, 2283 Canal Rd 
+,,Cape Meridian  ,,Cape-Meridian-Airport-29,,34.08561,,,,Nimbus Freight,,Gauteng,, 9713 Summit Rd ,,South Africa,,airport,,-117.73265,99353,synthetic_v1,,
+ 9611 Harbor Rd ,MX,Monte Rio  ,,,,"-7,8411",,,Monte Rio Parcel Hub 31,Granite Loop Transport,,,,,,,,parcel hub,,"-88,1580",54113,synthetic_v1,Jalisco,
+,Australia,Bluehaven  ,,Bluehaven-Parcel-Hub-14,,"36,3154",,,,Granite Loop Transport,,,,,,,,parcel hub,,"51,0451",96991,synthetic_v1,New South Wales, 6256 Foundry Rd 
+,,Valle Luna  ,,,cross-dock,,,71.70717,Valle Luna Cross-Dock 23,Kiteway Cargo,,Nuevo Leon,, 636 Harbor Rd ,,MX,,,4.11074,,88193,synthetic_v1,,

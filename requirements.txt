@@ -1,0 +1,10 @@
+pandas
+numpy
+pycountry
+rapidfuzz
+geopandas
+shapely
+pyproj
+matplotlib
+pyyaml
+pytest

@@ -1,0 +1,121 @@
+address_full,country_iso2,lat,lon,geocode_confidence
+"4022 Transit Rd, Mason, California, 28289, US",US,31.28241,57.70886,0.73
+"8938 Foundry Rd, Kalten, Bavaria, 38893, DE",DE,5.42881,-49.88851,0.83
+"5645 Vector Rd, Avonford, Scotland, 15695, GB",GB,30.67586,19.78158,0.78
+"4751 Harbor Rd, Porto Claro, Sao Paulo, 40512, BR",BR,42.98353,-22.36592,0.74
+"2687 Canal Rd, Hinode, Kansai, 59735, JP",JP,-10.7047,124.85562,0.85
+"3493 Canal Rd, New Umber, Gauteng, 61856, ZA",ZA,44.6215,48.57,0.82
+"1499 Axis Rd, Redgum, New South Wales, 24371, AU",AU,-21.24428,-81.80486,0.69
+"8807 Vector Rd, Valle Luna, Puebla, 94012, MX",MX,-4.3842,-45.755,0.71
+"6136 Summit Rd, Mason, Illinois, 80697, US",US,50.81498,124.0572,0.61
+"7972 Harbor Rd, Rheinhafen, Saxony, 79822, DE",DE,33.9251,-90.3343,0.62
+"8433 Transit Rd, Porto Claro, Sao Paulo, 46500, BR",BR,25.208,-67.1561,0.74
+"6219 Axis Rd, Redgum, Victoria, 61173, AU",AU,-11.13172,86.69906,0.61
+"946 Axis Rd, Piedra Alta, Puebla, 86569, MX",MX,7.91097,123.23453,0.61
+"1353 Foundry Rd, Los Verdes, Illinois, 96163, US",US,17.53051,16.15133,0.74
+"9234 Harbor Rd, Nordstadt, Bavaria, 19602, DE",DE,13.3871,11.5889,0.7
+"1707 Summit Rd, Carden, Wales, 44664, GB",GB,-24.61142,-96.10029,0.83
+"6949 Vector Rd, Nova Leste, Rio Grande do Sul, 15778, BR",BR,-34.68089,83.20219,0.85
+"6059 Summit Rd, Aokawa, Chubu, 66333, JP",JP,-23.5299,-41.77025,0.85
+"3888 Summit Rd, Cape Meridian, KwaZulu-Natal, 33206, ZA",ZA,44.32746,-118.30768,0.83
+"5738 Vector Rd, Bluehaven, New South Wales, 39831, AU",AU,-14.93688,53.20896,0.68
+"636 Harbor Rd, Valle Luna, Nuevo Leon, 88193, MX",MX,4.11074,71.70717,0.85
+"5977 Foundry Rd, Northgate, California, 19171, US",US,50.3987,123.60813,0.6
+"3153 Foundry Rd, Kalten, Hesse, 97153, DE",DE,49.63273,57.87585,0.68
+"7628 Canal Rd, Dunmere, Wales, 67954, GB",GB,25.80645,13.01698,0.63
+"3272 Summit Rd, Porto Claro, Bahia, 13201, BR",BR,-30.84077,140.66273,0.74
+"1756 Foundry Rd, Midori, Kansai, 38683, JP",JP,-19.1702,133.65083,0.8
+"8986 Canal Rd, Zulu Point, KwaZulu-Natal, 30861, ZA",ZA,3.1621,31.929,0.72
+"4461 Delta Rd, Redgum, Queensland, 51904, AU",AU,45.3724,-103.244,0.61
+"3398 Foundry Rd, Piedra Alta, Nuevo Leon, 61049, MX",MX,46.43546,32.70144,0.81
+"8009 Transit Rd, Mason, Illinois, 45774, US",US,4.22524,-117.1633,0.66
+"1385 Foundry Rd, Kalten, Saxony, 27786, DE",DE,-75.9332,43.0166,0.85
+"7629 Vector Rd, Sertao Azul, Sao Paulo, 58351, BR",BR,-19.89898,38.95682,0.76
+"1679 Vector Rd, Hinode, Kansai, 99687, JP",JP,19.03705,-92.31513,0.65
+"5944 Canal Rd, Cape Meridian, Western Cape, 30052, ZA",ZA,4.19384,73.12473,0.68
+"8474 Transit Rd, Piedra Alta, Nuevo Leon, 21221, MX",MX,-13.27796,-15.26441,0.76
+"5026 Delta Rd, Northgate, California, 72031, US",US,14.81257,-32.1855,0.66
+"1968 Summit Rd, Rheinhafen, Saxony, 35105, DE",DE,-15.52538,5.73362,0.65
+"4504 Axis Rd, Dunmere, England, 17146, GB",GB,14.8023,63.3027,0.64
+"1879 Harbor Rd, Porto Claro, Sao Paulo, 62521, BR",BR,9.25719,30.79571,0.71
+"7391 Canal Rd, Hinode, Chubu, 48974, JP",JP,42.415,142.30844,0.84
+"2574 Axis Rd, New Umber, Gauteng, 63545, ZA",ZA,5.54533,35.32902,0.77
+"6975 Harbor Rd, Coral Reach, Queensland, 81376, AU",AU,-84.7729,-14.7671,0.65
+"6604 Vector Rd, Valle Luna, Nuevo Leon, 75597, MX",MX,13.59834,-6.80511,0.81
+"9451 Axis Rd, Mason, Illinois, 32962, US",US,7.34507,50.90756,0.62
+"2644 Delta Rd, Nordstadt, Hesse, 63955, DE",DE,27.43063,-47.1812,0.75
+"6780 Axis Rd, Carden, England, 34586, GB",GB,11.65955,43.11115,0.63
+"2604 Vector Rd, Nova Leste, Sao Paulo, 82199, BR",BR,-14.8425,-33.7693,0.77
+"7746 Transit Rd, Hinode, Kanto, 69871, JP",JP,14.61386,-21.43178,0.66
+"2444 Canal Rd, Cape Meridian, KwaZulu-Natal, 80592, ZA",ZA,8.59072,-35.24121,0.83
+"6256 Foundry Rd, Bluehaven, New South Wales, 96991, AU",AU,36.3154,51.0451,0.66
+"1235 Canal Rd, Piedra Alta, Jalisco, 44737, MX",MX,-4.52949,62.03024,0.72
+"3737 Harbor Rd, Los Verdes, California, 66881, US",US,53.0504,80.29982,0.83
+"2395 Transit Rd, Nordstadt, Hesse, 79621, DE",DE,2.0847,59.0861,0.67
+"4193 Axis Rd, Dunmere, Wales, 70981, GB",GB,46.1088,57.9549,0.74
+"3896 Foundry Rd, Porto Claro, Rio Grande do Sul, 84963, BR",BR,-2.69368,-45.11445,0.75
+"9956 Delta Rd, Hinode, Kanto, 38705, JP",JP,22.29561,42.64061,0.75
+"2163 Harbor Rd, Cape Meridian, Gauteng, 48680, ZA",ZA,-5.5953,-12.8142,0.64
+"6521 Delta Rd, Bluehaven, New South Wales, 21836, AU",AU,36.16138,-121.24196,0.79
+"3636 Harbor Rd, Valle Luna, Nuevo Leon, 93283, MX",MX,39.14698,120.53466,0.67
+"7442 Delta Rd, Los Verdes, Illinois, 97881, US",US,50.44427,63.05068,0.85
+"7274 Canal Rd, Rheinhafen, Saxony, 40947, DE",DE,41.99052,-98.17425,0.76
+"838 Delta Rd, Avonford, Wales, 41925, GB",GB,53.9939,87.4841,0.71
+"2868 Harbor Rd, Porto Claro, Sao Paulo, 96646, BR",BR,42.98031,-89.41313,0.61
+"7812 Canal Rd, Midori, Chubu, 57453, JP",JP,11.19142,-95.55542,0.7
+"7277 Harbor Rd, Cape Meridian, KwaZulu-Natal, 20589, ZA",ZA,-6.0099,-84.9499,0.65
+"9043 Transit Rd, Coral Reach, Victoria, 66370, AU",AU,5.63994,-63.30673,0.79
+"1109 Harbor Rd, Monte Rio, Nuevo Leon, 21188, MX",MX,-26.60929,-98.9276,0.75
+"4722 Vector Rd, Northgate, Illinois, 56090, US",US,-25.6759,12.0014,0.66
+"9987 Vector Rd, Rheinhafen, Hesse, 13794, DE",DE,-18.76255,64.72867,0.81
+"1513 Transit Rd, Avonford, Wales, 59308, GB",GB,2.78492,-32.95808,0.73
+"7967 Canal Rd, Porto Claro, Rio Grande do Sul, 64287, BR",BR,-10.415,78.8346,0.84
+"135 Transit Rd, Aokawa, Kanto, 49507, JP",JP,50.07917,82.18437,0.83
+"8206 Delta Rd, Cape Meridian, KwaZulu-Natal, 19447, ZA",ZA,0.73641,75.35116,0.82
+"8703 Transit Rd, Valle Luna, Jalisco, 55793, MX",MX,-3.40102,133.7203,0.71
+"7611 Canal Rd, Los Verdes, California, 99277, US",US,48.17388,27.41278,0.85
+"5776 Harbor Rd, Nordstadt, Hesse, 50685, DE",DE,6.55682,-114.84604,0.82
+"9376 Transit Rd, Carden, Wales, 52143, GB",GB,19.45053,10.36917,0.7
+"8596 Summit Rd, Porto Claro, Bahia, 57696, BR",BR,-1.44332,-48.61873,0.61
+"4138 Summit Rd, Hinode, Chubu, 53694, JP",JP,-27.66482,54.17527,0.75
+"5527 Summit Rd, Redgum, Victoria, 88282, AU",AU,-1.09521,-81.19325,0.83
+"3843 Transit Rd, Piedra Alta, Nuevo Leon, 50562, MX",MX,51.9037,86.77996,0.63
+"864 Canal Rd, Los Verdes, Illinois, 58655, US",US,14.90867,-97.30077,0.75
+"446 Foundry Rd, Rheinhafen, Bavaria, 16980, DE",DE,0.68086,-24.0304,0.83
+"1039 Harbor Rd, Porto Claro, Rio Grande do Sul, 75513, BR",BR,18.70651,-120.56245,0.82
+"8586 Delta Rd, Hinode, Kanto, 18870, JP",JP,50.80633,21.90213,0.73
+"1116 Delta Rd, Cape Meridian, KwaZulu-Natal, 41604, ZA",ZA,30.96469,44.62938,0.76
+"2219 Harbor Rd, Bluehaven, Queensland, 69988, AU",AU,-31.67146,-70.57043,0.84
+"793 Delta Rd, Piedra Alta, Jalisco, 45811, MX",MX,-23.79725,-25.63482,0.68
+"1303 Foundry Rd, Mason, Texas, 88964, US",US,54.55883,-76.27675,0.76
+"703 Delta Rd, Kalten, Hesse, 90589, DE",DE,54.83355,-50.87005,0.66
+"580 Summit Rd, Avonford, Wales, 18812, GB",GB,-13.76042,49.19398,0.85
+"3289 Harbor Rd, Hinode, Kanto, 27790, JP",JP,41.75437,-2.94847,0.64
+"5932 Transit Rd, New Umber, KwaZulu-Natal, 25907, ZA",ZA,88.8577,53.6619,0.64
+"7852 Foundry Rd, Redgum, New South Wales, 63665, AU",AU,39.10055,-105.08731,0.8
+"7098 Axis Rd, Piedra Alta, Puebla, 26274, MX",MX,11.6292,-42.8864,0.66
+"8750 Harbor Rd, Mason, Texas, 75873, US",US,22.68887,34.78828,0.78
+"9383 Foundry Rd, Kalten, Hesse, 91016, DE",DE,22.50921,9.47028,0.76
+"7212 Foundry Rd, Avonford, Wales, 73471, GB",GB,6.7998,-33.148,0.78
+"7376 Transit Rd, Porto Claro, Rio Grande do Sul, 28465, BR",BR,-26.28695,-46.64276,0.62
+"8181 Vector Rd, Aokawa, Kanto, 75191, JP",JP,-32.91413,130.21286,0.83
+"2204 Vector Rd, Zulu Point, Gauteng, 57943, ZA",ZA,33.74711,-26.19691,0.73
+"2118 Harbor Rd, Bluehaven, Queensland, 61629, AU",AU,-1.41215,141.43267,0.68
+"7771 Canal Rd, Valle Luna, Jalisco, 29521, MX",MX,19.56345,14.18655,0.6
+"7790 Axis Rd, Mason, Illinois, 58281, US",US,-5.18844,-95.40676,0.81
+"8599 Foundry Rd, Rheinhafen, Saxony, 29369, DE",DE,38.94952,-59.60693,0.84
+"1030 Summit Rd, Carden, England, 77984, GB",GB,-16.33925,-37.23663,0.71
+"7942 Transit Rd, Sertao Azul, Bahia, 42311, BR",BR,-9.88942,-44.40523,0.69
+"2006 Foundry Rd, Hinode, Chubu, 61712, JP",JP,38.65397,132.74439,0.63
+"9218 Vector Rd, Cape Meridian, Gauteng, 27992, ZA",ZA,75.0406,-25.1696,0.66
+"94 Summit Rd, Coral Reach, Victoria, 63334, AU",AU,23.76035,112.77481,0.61
+"2878 Foundry Rd, Piedra Alta, Jalisco, 33040, MX",MX,49.05303,-115.18824,0.72
+"2208 Canal Rd, Northgate, Texas, 45761, US",US,-17.647,-94.5854,0.76
+"4295 Delta Rd, Dunmere, Scotland, 40972, GB",GB,-29.40881,-93.07929,0.82
+"2519 Canal Rd, Porto Claro, Sao Paulo, 89395, BR",BR,-1.37376,64.524,0.79
+"1021 Transit Rd, Hinode, Kanto, 85065, JP",JP,13.29941,-80.57497,0.61
+"7494 Axis Rd, Cape Meridian, Gauteng, 83242, ZA",ZA,6.61405,92.86715,0.61
+"1140 Canal Rd, Bluehaven, Queensland, 14159, AU",AU,-9.1618,-76.405,0.81
+"5707 Harbor Rd, Piedra Alta, Puebla, 33392, MX",MX,54.3562,-18.8742,0.82
+"5681 Summit Rd, Northgate, California, 46129, US",US,-18.03676,111.30621,0.75
+"4019 Axis Rd, Kalten, Bavaria, 62725, DE",DE,4.50665,20.73515,0.78
