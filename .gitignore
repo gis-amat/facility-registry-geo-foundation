@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+data/interim/cleaned_facilities.csv
+data/processed/facilities_master.csv
+data/processed/facilities_master.gpkg
+reports/qa/qa_report.md
+reports/qa/qa_summary.csv
+reports/maps/facilities_overview.pdf

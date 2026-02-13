@@ -1,0 +1,13 @@
+random_seed: 42
+crs_output: "EPSG:4326"
+gpkg_layer_name: "facilities_master"
+dedupe_thresholds:
+  name_similarity: 88
+  address_similarity: 85
+  combined_similarity: 87
+map:
+  page_size: [11, 8.5]
+  title: "Logistics Facility Registry v1 - Global Overview"
+  output_path: "reports/maps/facilities_overview.pdf"
+  footer_note: "Synthetic data for portfolio demonstration"
+online_geocode_enabled: false
